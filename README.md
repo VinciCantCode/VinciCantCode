@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vinci Liu
-- 🏂 A programmer who loves skiing and snowboarding
+- 🏂 A developer who loves skiing and snowboarding
 - 🎮 And ofc video game!
 <!---
 VinciCantCode/VinciCantCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
